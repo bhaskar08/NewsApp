@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news-uk",
+                "name": "Google News (UK)"
+            },
+            "author": "https://www.theguardian.com/profile/tom-ambrose,https://www.theguardian.com/profile/jamie-grierson,https://www.theguardian.com/profile/pippacrerar",
+            "title": "Treasury will delay publishing OBR forecast by six weeks after it is delivered on 7 October – UK politics live",
+            "description": "Budget watchdog to give assessment of fiscal plans next week but public will have to wait until chancellor’s November statement",
+            "url": "https://www.theguardian.com/politics/live/2022/sep/30/liz-truss-kwasi-kwarteng-obr-mini-budget-uk-politics-live",
+            "urlToImage": "https://i.guim.co.uk/img/media/bae257d4b1f9a52befd8963ddc2401b207acc3b2/0_149_4920_2951/master/4920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=5936f9a93f823c635a04b3b099ca38ff",
+            "publishedAt": "2022-09-30T10:54:47+00:00",
+            "content": "Treasury will not publish OBR forecast delivered to them on 7 October until 23 November\r\nThe Treasury said that Liz Truss, Kwasi Kwarteng and the OBR discussed the economic and fiscal outlook as well… [+13722 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-au",
+                "name": "Google News (Australia)"
+            },
+            "author": "Kamin Gock",
+            "title": "NSW minister Rob Stokes announces retirement from politics ahead of March elections",
+            "description": "Minister for Infrastructure Rob Stokes, who was in the running to take over as premier of NSW, has announced his retirement from politics.",
+            "url": "https://www.abc.net.au/news/2022-09-30/rob-stokes-confirms-retirement-from-nsw-politics/101489804",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/87252d857edc0acd6a5f7af63938e15b?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=151&width=862&height=485",
+            "publishedAt": "2022-09-29T23:53:47+00:00",
+            "content": "New South Wales Minister for Infrastructure Rob Stokes will retire from politics ahead of next years March state election.\r\n<ul><li>Rob Stokes said he would not stand for preselection for his seat of… [+3725 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "The Washington Times https://www.washingtontimes.com",
+            "title": "Latest Quizzes",
+            "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+            "url": "https://www.washingtontimes.com/quiz/",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/87252d857edc0acd6a5f7af63938e15b?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=151&width=862&height=485",
+            "publishedAt": "2022-08-30T16:37:43.8583104Z",
+            "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+        },
+        {
+            "source": {
+                "id": "the-american-conservative",
+                "name": "The American Conservative"
+            },
+            "author": null,
+            "title": "Politics Archives - The American Conservative",
+            "description": null,
+            "url": "https://www.theamericanconservative.com/category/politics/",
+            "urlToImage": null,
+            "publishedAt": "2022-07-07T21:37:27.3936289Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": null,
+            "title": "Daily Briefing",
+            "description": "The day's top stories, from sports to movies to politics to world events.",
+            "url": "https://profile.usatoday.com/newsletters/daily-briefing/",
+            "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg",
+            "publishedAt": "2021-08-15T15:35:07+00:00",
+            "content": "The day's top stories, from sports to movies to politics to world events."
+        },
+        {
+            "source": {
+                "id": "the-jerusalem-post",
+                "name": "The Jerusalem Post"
+            },
+            "author": null,
+            "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+            "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+            "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+            "publishedAt": "2019-11-13T04:41:00Z",
+            "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+        }
+    ]
+}
